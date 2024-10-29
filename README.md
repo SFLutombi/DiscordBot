@@ -1,0 +1,1 @@
+About to start a more abitious project, so this is bascially a repo where I attempt to understand what goes on in the creation of a DiscordBot. As such a very simple discord bot is being made here.
